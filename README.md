@@ -1,0 +1,3 @@
+# maven-selenium-boilerplate
+A maven boilerplate selenium app for writing integration tests for your website.
+WORK IN PROGRESS...
